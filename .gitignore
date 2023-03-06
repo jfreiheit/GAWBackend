@@ -1,0 +1,13 @@
+node_modules
+
+package-lock.json
+
+package.json
+
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
+package.json
+package-lock.json
